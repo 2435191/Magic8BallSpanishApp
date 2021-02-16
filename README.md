@@ -7,5 +7,5 @@ Sorry for the hodgepodge of MacOS/Windows path syntax; I developed this on a Win
 [The `Images` folder](https://github.com/2435191/Magic8BallSpanishApp/tree/main/release/Images) contains all the `.png` files used in the project. 
 [`items.csv`](https://github.com/2435191/Magic8BallSpanishApp/blob/main/release/items.csv) is a mapping of Spanish phrases to the corresponding images.
 
-<h3>Dependencies</h3>
-* [rapidcsv](https://github.com/d99kris/rapidcsv)
+## Dependencies
+- [rapidcsv](https://github.com/d99kris/rapidcsv)
