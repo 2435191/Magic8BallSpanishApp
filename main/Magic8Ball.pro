@@ -12,7 +12,7 @@ SOURCES += main.cpp mainwindow.cpp
 
 DISTFILES += 8Ball.ico 8ball.icns
 
-INCLUDEPATH += /Users/otheraccount/Downloads/rapidcsv-master/src/
+INCLUDEPATH += /path/to/rapidcsv-master/src/
 
 ICON += 8ball.icns
 
